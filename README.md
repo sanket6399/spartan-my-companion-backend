@@ -1,5 +1,3 @@
-# Spartan-my-companion-backend
-
 # Spartan My Companion Backend
 
 This repository contains the backend code for the Spartan My Companion project.
